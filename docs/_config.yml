@@ -29,6 +29,7 @@ github_username:  jekyll
 color_scheme: inpsyde
 favicon: "/assets/images/favicon.png"
 logo: "/assets/images/inpsyde_RGB_flat.png"
+footer_content: "Copyright (c) Inpsyde GmbH. The team at <a href='https://inpsyde.com'>Inpsyde</a> is engineering the Web since 2006."
 
 # Build settings
 markdown: kramdown
