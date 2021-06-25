@@ -1,5 +1,6 @@
 ---
 title: "Asset Factory"
+nav_order: 2
 ---
 # Asset Factory
 ## `AssetFactory`

@@ -1,5 +1,6 @@
 ---
 title: "Getting started"
+nav_order: 1
 ---
 # Getting started - the `AssetManager`
 When using Assets in your theme or plugin, you can simply access the `Inpsyde\Assets\AssetManager` by hooking into the setup-hook.
