@@ -3,9 +3,16 @@ title: "Output Filter"
 nav_order: 5
 ---
 # Output Filter
-{: .fw-500 }
+{: .fw-500 .no_toc }
+## Table of contents
+{: .no_toc .text-delta }
+1. TOC
+{:toc}
+---
 
-## `OutputFilter`
+## Output Filter
+###`OutputFilter`
+{: .no_toc }
 
 These callbacks are specified to manipulate the output of the `Script` via `script_loader_tag` and `Style`
 via `style_loader_tag`.
@@ -27,7 +34,7 @@ $script = $script->withFilters(AsyncScriptOutputFilter::class);
 Following default OutputFilters are shipped with this package:
 
 ### `AsyncStyleOutputFilter`
-
+{: .no_toc }
 This filter will allow you to load your CSS async via `preload`. It also delivers a polyfill for older browsers which is
 appended once to ensure that script-loading works properly.
 
@@ -38,22 +45,22 @@ appended once to ensure that script-loading works properly.
 ```
 
 ### `InlineAssetOutputFilter`
-
+{: .no_toc }
 This filter allows you to print your `Style` or `Script` inline into the DOM if the file is readable.
 
 ### `AttributesOutputFilter`
-
+{: .no_toc }
 This filter will be added automatically if you're using `Asset::withAttributes([])` and allows you to set additonal
 key-value pairs as attributes to your `script`- or `link`-tag.
 
 See more in [Assets](./assets.md).
 
 ### `AsyncScriptOutputFilter` (deprecated)
-
+{: .no_toc }
 **[!] deprecated:** Please use instead `Script::withAttributes(['async' => true]);`
 
 ### `DeferScriptOutputFilter`  (deprecated)
-
+{: .no_toc }
 **[!] deprecated:** Please use instead `Script::withAttributes(['defer' => true]);`
 
 ## Create your own filter

@@ -3,7 +3,12 @@ title: "Assets"
 nav_order: 4
 ---
 # Assets
-{: .fw-500 }
+{: .fw-500 .no_toc }
+## Table of contents
+{: .no_toc .text-delta }
+1. TOC
+{:toc}
+---
 
 There are two main classes delivered:
 
