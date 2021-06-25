@@ -25,6 +25,8 @@ baseurl: /assets/      # place folder name if the site is served in a subfolder
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Theme settings
+color_scheme: inpsyde
 # Build settings
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
