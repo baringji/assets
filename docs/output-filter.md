@@ -46,7 +46,7 @@ This filter allows you to print your `Style` or `Script` inline into the DOM if 
 This filter will be added automatically if you're using `Asset::withAttributes([])` and allows you to set additonal
 key-value pairs as attributes to your `script`- or `link`-tag.
 
-See more in [03 - Assets.md](./03 - Assets.md).
+See more in [Assets](./assets.md).
 
 ### `AsyncScriptOutputFilter` (deprecated)
 
