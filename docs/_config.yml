@@ -33,7 +33,7 @@ footer_content: "Copyright (c) Inpsyde GmbH. The team at <a href='https://inpsyd
 
 # Build settings
 markdown: kramdown
-remote_theme: inpsyde/jekyll-inpsyde-theme
+theme: jekyll-inpsyde-theme
 plugins:
   - jekyll-feed
 
