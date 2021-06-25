@@ -3,6 +3,8 @@ title: "Getting started"
 nav_order: 1
 ---
 # Getting started - the `AssetManager`
+{: .fw-500 }
+
 When using Assets in your theme or plugin, you can simply access the `Inpsyde\Assets\AssetManager` by hooking into the setup-hook.
 
 This way you can start registering your assets:

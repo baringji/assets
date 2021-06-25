@@ -3,6 +3,7 @@ title: "Helpers"
 nav_order: 6
 ---
 # Helpers
+{: .fw-500 }
 
 The `inpsyde/assets`-Package comes with some useful helper functions.
 

@@ -2,7 +2,10 @@
 title: "Output Filter"
 nav_order: 5
 ---
-# `OutputFilter`
+# Output Filter
+{: .fw-500 }
+
+## `OutputFilter`
 
 These callbacks are specified to manipulate the output of the `Script` via `script_loader_tag` and `Style`
 via `style_loader_tag`.

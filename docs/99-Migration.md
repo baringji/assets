@@ -3,6 +3,7 @@ title: "Migration"
 nav_order: 7
 ---
 # Migration
+{: .fw-500 }
 
 ## From 1.0 to 1.1
 In version 1.1 we didn't implemented breaking changes, but we're renamend some internals for `Inpsyde\Assets\Asset` to be more clear when using the config-driven approach. In future you'll have to change your Asset-configuration, since we don't want to ship to much legacy code.

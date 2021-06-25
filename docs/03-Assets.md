@@ -3,6 +3,7 @@ title: "Assets"
 nav_order: 4
 ---
 # Assets
+{: .fw-500 }
 
 There are two main classes delivered:
 
