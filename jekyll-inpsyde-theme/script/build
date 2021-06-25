@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo "Packaging gem... \n"
+gem build jekyll-inpsyde-theme.gemspec
+
+echo "Cleaning up... \n"
+git add *.gem
+git commit -m 'Bump jekyll-inpsyde-theme gem package'
