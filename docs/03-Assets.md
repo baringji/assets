@@ -1,3 +1,6 @@
+---
+title: "Assets"
+---
 # Assets
 
 There are two main classes delivered:

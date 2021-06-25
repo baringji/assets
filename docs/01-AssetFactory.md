@@ -1,3 +1,6 @@
+---
+title: "Asset Factory"
+---
 # `AssetFactory`
 Instead of creating instances by hand, it's sometimes easier to use configuration via array or file to manage your specific assets.
 

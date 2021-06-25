@@ -1,3 +1,6 @@
+---
+title: "Helpers"
+---
 # Helpers
 
 The `inpsyde/assets`-Package comes with some useful helper functions.

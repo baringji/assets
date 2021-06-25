@@ -1,3 +1,6 @@
+---
+title: "Output Filter"
+---
 # `OutputFilter`
 
 These callbacks are specified to manipulate the output of the `Script` via `script_loader_tag` and `Style`
