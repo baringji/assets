@@ -1,6 +1,7 @@
 ---
 title: "Getting started"
 nav_order: 1
+layout: "default"
 ---
 # Getting started - the `AssetManager`
 {: .fw-500 }
@@ -17,10 +18,10 @@ use Inpsyde\Assets\Style;
 use Inpsyde\Assets\Asset;
 
 
-add_action( 
-	AssetManager::ACTION_SETUP, 
+add_action(
+	AssetManager::ACTION_SETUP,
 	function(AssetManager $assetManager) {
-	
+
 		$assetManager->register(
 			new Script('foo', 'www.example.com/script.js'),
 			new Style('foo', 'www.example.com/style.css')

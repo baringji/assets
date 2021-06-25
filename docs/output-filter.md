@@ -1,6 +1,7 @@
 ---
 title: "Output Filter"
 nav_order: 5
+layout: "default"
 ---
 # Output Filter
 {: .fw-500 .no_toc }

@@ -1,6 +1,7 @@
 ---
 title: "Loaders"
 nav_order: 3
+layout: "default"
 ---
 # Loaders
 {: .fw-500 .no_toc }
@@ -74,7 +75,7 @@ The `EncoreEntrypointsLoader` can load those configurations and automatically co
         }
      }
 }
-``` 
+```
 
 And loading this file:
 
@@ -150,7 +151,7 @@ return [
 		'type' => Script::class
     ],
 ];
-``` 
+```
 
 And in your application:
 

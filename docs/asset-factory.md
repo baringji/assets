@@ -1,6 +1,7 @@
 ---
 title: "Asset Factory"
 nav_order: 2
+layout: "default"
 ---
 # Asset Factory
 {: .fw-500 }

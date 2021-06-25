@@ -1,6 +1,7 @@
 ---
 title: "Migration"
 nav_order: 7
+layout: "default"
 ---
 # Migration
 {: .fw-500 .no_toc }
