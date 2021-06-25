@@ -27,6 +27,9 @@ github_username:  jekyll
 
 # Theme settings
 color_scheme: inpsyde
+favicon: "/assets/images/favicon.png"
+logo: "/assets/images/inpsyde_RGB_flat.png"
+
 # Build settings
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
