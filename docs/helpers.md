@@ -3,7 +3,13 @@ title: "Helpers"
 nav_order: 6
 ---
 # Helpers
-{: .fw-500 }
+{: .fw-500 .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+1. TOC
+{:toc}
+---
 
 The `inpsyde/assets`-Package comes with some useful helper functions.
 
