@@ -1,7 +1,8 @@
 ---
 title: "Asset Factory"
 ---
-# `AssetFactory`
+# Asset Factory
+## `AssetFactory`
 Instead of creating instances by hand, it's sometimes easier to use configuration via array or file to manage your specific assets.
 
 **[!] Note:** The `AssetFactory` is currently replaced step by step via Loaders. Methods are set to `@deprecated` which have been moved to a Loader.
