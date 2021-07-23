@@ -4,7 +4,7 @@ nav_order: 3
 layout: "default"
 ---
 # Loaders
-{: .fw-500 .no_toc }
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }

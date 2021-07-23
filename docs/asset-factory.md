@@ -4,7 +4,6 @@ nav_order: 2
 layout: "default"
 ---
 # Asset Factory
-{: .fw-500 }
 
 ## `AssetFactory`
 Instead of creating instances by hand, it's sometimes easier to use configuration via array or file to manage your specific assets.

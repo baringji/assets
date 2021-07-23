@@ -4,7 +4,7 @@ nav_order: 5
 layout: "default"
 ---
 # Output Filter
-{: .fw-500 .no_toc }
+{: .no_toc }
 ## Table of contents
 {: .no_toc .text-delta }
 1. TOC
